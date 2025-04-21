@@ -29,13 +29,15 @@ The Ecommerce Sales Analytics and Visualization Project is a comprehensive busin
 </ul>
 
 
-<h2>Tech Stack </h2>
+## Tech Stack
 
-- Power BI – Data visualization and dashboard creation.
+- **Power BI** – Data visualization and dashboard creation.
+   
+- **Power Query (M Language)** – Data transformation and cleaning.
+  
+- **DAX (Data Analysis Expressions)** – Custom measures and calculated fields.  
 
-- Power Query (M Language) – Data transformation and cleaning.
 
-- DAX (Data Analysis Expressions) – Custom measures and calculated fields.
 
 
 <h2>Why This Project? </h2>
